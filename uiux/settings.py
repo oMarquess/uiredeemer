@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-68_((^a5&)ha*xc=stj139!7^qe7^#n-$7#yihwg-gf&g22#_w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://127.0.0.1:8000/',
+ALLOWED_HOSTS = ['127.0.0.1',
     'https://uiredeemer.herokuapp.com/']
 
 
